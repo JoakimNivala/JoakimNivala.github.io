@@ -22,8 +22,8 @@
 					</header> 
 					<nav id="nav">
 						<ul class="links">
-							<li><a href="Home.html">Introduction</a></li>
-							<li class="active"><a href="PastProjects.html">Past Projects</a></li>
+							<li><a href="Home">Introduction</a></li>
+							<li class="active"><a href="PastProjects">Past Projects</a></li>
 				
 						</ul>
 						<ul class="icons">
